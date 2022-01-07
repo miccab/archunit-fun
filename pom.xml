@@ -52,6 +52,7 @@
 
     <modules>
         <module>puml</module>
+        <module>onion</module>
     </modules>
 
 </project>
