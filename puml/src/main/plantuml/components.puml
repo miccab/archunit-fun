@@ -1,0 +1,9 @@
+@startuml
+
+[Kafka] <<org.example.puml.kafka..>>
+
+[Core] <<org.example.puml.core..>>
+
+[Kafka] --> [Core]
+
+@enduml
