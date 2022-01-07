@@ -1,6 +1,5 @@
 DONE:
 * module using Plant UML
-
-
-TODO:
 * module using onion architecture
+* module using layered architecture
+
